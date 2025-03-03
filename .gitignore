@@ -11,7 +11,7 @@ env/
 myenv/
 
 ### Django ###
-db.sqlite3
+# db.sqlite3
 *.log
 
 ### VSCode Settings ###
@@ -26,8 +26,8 @@ Thumbs.db
 !**/migrations/__init__.py
 
 ### Media Files ###
-media/
-!static/media_profile_pics/
+# media/
+# !static/media_profile_pics/
 
 ### Pytest ###
 .pytest_cache/
